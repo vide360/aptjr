@@ -1,0 +1,78 @@
+#: locale=pt
+
+## Action
+
+### PDF
+PopupPDFBehaviour_947743B6_8724_76D7_41A0_C577C99168B4.url = files/APRESENTAC%CC%A7A%CC%83O%20-%20MONT%20HEBRON_pt.pdf
+
+### URL
+LinkBehaviour_9E3360D1_82A1_FEDE_41DC_B184E54F8BB0.source = http://api.whatsapp.com/send?1=pt_BR&phone=5583988113138
+LinkBehaviour_98C1B6C3_82A0_42C2_41A9_12BEB703AB81.source = http://api.whatsapp.com/send?1=pt_BR&phone=5583988113138
+LinkBehaviour_99D3C4B2_82A0_4542_4187_1AC1263B8BE9.source = http://api.whatsapp.com/send?1=pt_BR&phone=5583998026422
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_6CFC353F_7EC4_A25A_41CA_FABCA60FB6FF.text = Lavabo
+HotspotPanoramaOverlayTextImage_6A2EEEA1_7EC4_9E67_41D5_EF945E9878F3.text = Suite Master
+HotspotPanoramaOverlayTextImage_6C6F97AD_7EDF_EE7E_41D4_180F46409DB0.text = Suíte 02
+
+## Media
+
+### Audio
+audiores_67C9E4D5_7FC7_622F_41D5_9C820EB5D37B.mp3Url = media/audio_68ED7A00_7FC4_A626_41B1_216AF5213D6C_pt.mp3
+
+### Image
+imlevel_6CCAECEB_7EC4_A3FB_41DB_68EFAC2DC0E1.url = media/panorama_749FC3FB_7E47_A5DA_41D8_F0F0C3B3A04A_HS_qlyhx1pr_pt.png
+imlevel_6CF9414A_7EDD_623A_41B1_6BB48121B4DB.url = media/panorama_749FC3FB_7E47_A5DA_41D8_F0F0C3B3A04A_HS_tiynztd7_pt.png
+imlevel_6CD511A8_7EDD_6265_416B_F39A57C5357C.url = media/panorama_749FC3FB_7E47_A5DA_41D8_F0F0C3B3A04A_HS_wp99fga1_pt.png
+
+### Title
+panorama_749F604E_7E47_E23D_41D3_C8AEA6F5154A.label = Closet
+panorama_749F81B0_7E47_A265_41C7_6AE1FB71ABC6.label = Closet02
+panorama_749F758F_7E47_623B_41B7_297EE494A0A7.label = Cor_Entrada
+panorama_749FC3FB_7E47_A5DA_41D8_F0F0C3B3A04A.label = Corredor
+panorama_749C8754_7E47_6E2E_41DB_DA7A07749349.label = Cozinha
+panorama_749CE95F_7E44_A2DA_41CD_F2E38FAE40AD.label = Fachada
+panorama_749C9C7B_7E44_A2DB_41D2_DC07E36D940E.label = Hall entrada
+panorama_6FB3539A_7ECB_665A_41DB_8BE9BD2BD10A.label = Lavabo
+video_8DD3CD45_82BD_1021_41BA_88CFF2010996.label = Paisagem. Praia com Pessoas. Nascer do Sol. Pôr do Sol - Vídeos Free
+panorama_749C719F_7E44_A25B_41D0_0AF6B358D386.label = Piscina02
+panorama_749C830F_7E44_A63A_41C2_888EFA78F2AA.label = Quarto
+panorama_749D3532_7E45_6265_41DD_9A7C2A5935B2.label = Sala estar
+panorama_749D676C_7E45_6EFE_41BC_5923D4441640.label = Sala tv
+panorama_749D69AE_7E45_A27A_419B_4FF1EBEC12EE.label = Suite M01
+panorama_749D4B19_7E45_A626_41CC_AEE471C61756.label = Suite M02
+panorama_749B6799_7E47_AE26_41CD_4AD6697DCDDA.label = WC quarto
+panorama_6C6836A1_7EDC_AE66_41CD_9D42AD46CAFB.label = WC suite
+
+### Video
+videolevel_9501CBE4_8724_766B_41D2_7A366C9638E7.posterURL = media/video_8DD3CD45_82BD_1021_41BA_88CFF2010996_poster_pt.jpg
+videolevel_9501CBE4_8724_766B_41D2_7A366C9638E7.url = media/video_8DD3CD45_82BD_1021_41BA_88CFF2010996_pt.mp4
+
+## Right Click Menu
+
+### Text
+menuItem_9903C083_82A0_5D42_41C0_B504200C0FB0.label = Criado por: Vide360
+menuItem_9EEAAFCF_82A0_42C2_41CC_8CFB469CABF6.label = Whatsapp
+
+## Skin
+
+### Button
+Button_6B6A9365_7E45_66EE_41D1_BACC2BFF96C5_mobile.label = COMEÇAR
+Button_6B6A9365_7E45_66EE_41D1_BACC2BFF96C5.label = COMEÇAR
+Button_9A60AC25_82A0_4546_41DC_02F12428DAB3.label = Fernando Cunha - Creci 3111 F
+Button_9A60AC25_82A0_4546_41DC_02F12428DAB3_mobile.label = Fernando Cunha - Creci 3111 F
+
+### Image
+Image_68F48BA6_7E47_E66A_41B5_D83846A1A46C_mobile.url = skin/Image_68F48BA6_7E47_E66A_41B5_D83846A1A46C_mobile_pt.png
+Image_68F48BA6_7E47_E66A_41B5_D83846A1A46C.url = skin/Image_68F48BA6_7E47_E66A_41B5_D83846A1A46C_pt.png
+Image_9AD9B0B3_82A1_DD42_41A1_DD71185001AC_mobile.url = skin/Image_9AD9B0B3_82A1_DD42_41A1_DD71185001AC_mobile_pt.gif
+Image_9AD9B0B3_82A1_DD42_41A1_DD71185001AC.url = skin/Image_9AD9B0B3_82A1_DD42_41A1_DD71185001AC_pt.gif
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Apartamento 
